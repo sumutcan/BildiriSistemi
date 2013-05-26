@@ -25,6 +25,5 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/opt/springsuite/hsqldb-2.2.9/hsqldb/lib/hsqldb.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
