@@ -1,3 +1,5 @@
+/target/test-classes/log4j.xml
+/target/classes/log4j.xml
 *.class
 
 # Package Files #
