@@ -1,3 +1,7 @@
+/database/bildiridb.lck
+/database/bildiridb.log
+/database/bildiridb.properties
+/database/bildiridb.script
 *.orig
 /pom.xml.orig
 /.gitignore.orig
