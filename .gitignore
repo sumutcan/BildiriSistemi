@@ -1,3 +1,5 @@
+*.orig
+/pom.xml.orig
 /.gitignore.orig
 /target/test-classes/log4j.xml
 /target/classes/log4j.xml
